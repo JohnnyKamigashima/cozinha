@@ -1,4 +1,4 @@
-<!-- calc plano escala -->
+<!-- calc para pão tradicional rustico -->
 <div class="cells">
     <div class="titulo">
         Calculadora de Pão Rustico
@@ -33,7 +33,6 @@
         </div>
         <input type="text" class="form-control" id="CPR_fermento" value="0">
     </div>
-
     <script>
         $(document).ready(function() {
             $('#CPR_farinha').keyup(function() { //calculate scale

@@ -24,7 +24,6 @@
             include_once 'partials/marinar.php';
             ?>
         </div>
-        
     </div>
     <?php include_once 'partials/footer.php'; ?>
 </body>

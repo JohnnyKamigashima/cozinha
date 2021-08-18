@@ -1,4 +1,4 @@
-<!-- calc plano escala -->
+<!-- calc para temperos de marinar carne -->
 <div class="cells">
     <div class="titulo">
         Calculadora tempero para Marinar carne
