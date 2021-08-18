@@ -22,6 +22,7 @@
             <?php
             include_once 'partials/bread_calc.php';
             include_once 'partials/marinar.php';
+            include_once 'partials/conversor.php';
             ?>
         </div>
     </div>
